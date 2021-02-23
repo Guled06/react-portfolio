@@ -11,3 +11,10 @@ I have added six sreenshots of six applications I have built over the course of 
 Deployed Reach Portfolio Link: https://guled06.github.io/react-portfolio/
 
 GitHub Repository: https://github.com/Guled06/react-portfolio
+
+# Credits: 
+
+I was able to create my react portfolio with the help of using a react portfolio template. The template I used can be located at the following link: 
+
+Link: https://github.com/shloksomani/react-portfolio
+
