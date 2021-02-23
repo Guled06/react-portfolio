@@ -21,7 +21,7 @@ class Contact extends React.Component {
                       </div>
                       <div>
                         <form
-                          action="mailto:akindnesstoremember@gmail.com"
+                          action="mailto:a.kindness.to.remember@gmail.com"
                           method="POST"
                           className="contactForm"
                         >
