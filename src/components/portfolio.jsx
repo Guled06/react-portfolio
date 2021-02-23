@@ -18,7 +18,12 @@ class Portfolio extends React.Component {
               <div className="title-box text-center">
                 <h3 className="title-a">Portfolio</h3>
                 <p className="subtitle-a">
-                  During the time I attended the University of California San Diego Coding Bootcamp, I had fun. I created a lot of projects. Some of the projects, I created alone. I contributed to three separate projects with three different groups consists of my fellow classmates at the bootcamp. Below, you can view the works I have completed.
+                  During the time I attended the University of California San
+                  Diego Coding Bootcamp, I had fun. I created a lot of projects.
+                  Some of the projects, I created alone. I contributed to three
+                  separate projects with three different groups consists of my
+                  fellow classmates at the bootcamp. Below, you can view the
+                  works I have completed.
                 </p>
                 <div className="line-mf"></div>
               </div>
@@ -34,11 +39,33 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Lorem Ipsum</h2>
+                        <h2 className="w-title">Weather-Dashboard</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap ReactJS
+                            HTML5 CSS3 Bootstrap Javascript
                           </span>
+                        </div>
+                        <br />
+                        <div>
+                          <button type="button" class="btn btn-danger">
+                            <a
+                              href="https://guled06.github.io/Weather-Dashboard/"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              Link To Deployed App
+                            </a>
+                          </button>
+                          <hr />
+                          <button type="button" class="btn btn-danger">
+                            <a
+                              href="https://github.com/Guled06/Weather-Dashboard"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              GitHub Repository
+                            </a>
+                          </button>
                         </div>
                       </div>
                       <div className="col-sm-4">
@@ -95,12 +122,34 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Lorem Ipsum</h2>
+                        <h2 className="w-title">The Brew Budz</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap Webpack SmoothScrolling
-                            VanillaJS
+                            HTML5 CSS3 Bootstrap Javascript Node.js JawsDB MySQL
+                            Express.js Sequelize
                           </span>{" "}
+                        </div>
+                        <br />
+                        <div>
+                          <button type="button" class="btn btn-danger">
+                            <a
+                              href="https://thebrewbudz.herokuapp.com/landing"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              Link To Deployed App
+                            </a>
+                          </button>
+                          <hr />
+                          <button type="button" class="btn btn-danger">
+                            <a
+                              href="https://github.com/Guled06/the-brew-budz"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              GitHub Repository
+                            </a>
+                          </button>
                         </div>
                       </div>
                       <div className="col-sm-4">
@@ -157,12 +206,34 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Lorem Ipsum</h2>
+                        <h2 className="w-title">Workday Scheduler</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap Webpack ReactJS
+                            HTML5 CSS3 Bootstrap Javascript jQuery
                           </span>
                           {/*} / <span className="w-date">18 Sep. 2018</span>*/}
+                        </div>
+                        <br />
+                        <div>
+                          <button type="button" class="btn btn-danger">
+                            <a
+                              href="https://guled06.github.io/Workday-Scheduler/"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              Link To Deployed App
+                            </a>
+                          </button>
+                          <hr />
+                          <button type="button" class="btn btn-danger">
+                            <a
+                              href="https://github.com/Guled06/Workday-Scheduler"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              GitHub Repository
+                            </a>
+                          </button>
                         </div>
                       </div>
                       <div className="col-sm-4">
@@ -219,11 +290,33 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Lorem Ipsum</h2>
+                        <h2 className="w-title">Note Taker</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Bootstrap ReactJS GoogleAPI
+                            HTML5 CSS3 Bootstrap jQuery Express.js
                           </span>
+                        </div>
+                        <br />
+                        <div>
+                          <button type="button" class="btn btn-danger">
+                            <a
+                              href="https://yournotetaker.herokuapp.com/"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              Link To Deployed App
+                            </a>
+                          </button>
+                          <hr />
+                          <button type="button" class="btn btn-danger">
+                            <a
+                              href="https://github.com/Guled06/note-taker"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              GitHub Repository
+                            </a>
+                          </button>
                         </div>
                       </div>
                       <div className="col-sm-4">
@@ -280,9 +373,33 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Lorem Ipsum</h2>
+                        <h2 className="w-title">Budget Tracker</h2>
                         <div className="w-more">
-                          <span className="w-ctegory">MERN</span>
+                          <span className="w-ctegory">
+                            HTML5 CSS3 Javascript Mongoose IndexedDB Express.js
+                          </span>
+                        </div>
+                        <br />
+                        <div>
+                          <button type="button" class="btn btn-danger">
+                            <a
+                              href="https://tracking-my-budget.herokuapp.com/"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              Link To Deployed App
+                            </a>
+                          </button>
+                          <hr />
+                          <button type="button" class="btn btn-danger">
+                            <a
+                              href="https://github.com/Guled06/budget-tracker"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              GitHub Repository
+                            </a>
+                          </button>
                         </div>
                       </div>
                       <div className="col-sm-4">
@@ -339,11 +456,33 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Lorem Ipsum</h2>
+                        <h2 className="w-title">Coded 19 (Covid-19 app)</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap MERN
+                            HTML5 CSS3 Materialize Javascript jQuery AJAX API
                           </span>
+                        </div>
+                        <br />
+                        <div>
+                          <button type="button" class="btn btn-danger">
+                            <a
+                              href="https://elijahig.github.io/Coded-19-app/"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              Link To Deployed App
+                            </a>
+                          </button>
+                          <hr />
+                          <button type="button" class="btn btn-danger">
+                            <a
+                              href="https://github.com/ElijahIG/Coded-19-app"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              GitHub Repository
+                            </a>
+                          </button>
                         </div>
                       </div>
                       <div className="col-sm-4">

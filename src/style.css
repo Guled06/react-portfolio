@@ -2,7 +2,7 @@
 GENERAL STYLING
 */
 body {
-  background-color: #f5f5f5!important;
+  background-color: #ad3965!important;
   color: #4e4e4e!important;
 }
 
@@ -146,7 +146,7 @@ a:hover {
 }
 
 .subtitle-a {
-  color: #4e4e4e;
+  color: #0e0d0d;
 }
 
 .line-mf {
@@ -347,7 +347,7 @@ a:hover {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background: rgb(255, 255, 255);
 }
 
 #preloader:before {
@@ -615,7 +615,7 @@ INTRO
 }
 
 .intro .intro-title {
-  color: #fff;
+  color: rgb(173, 25, 75);
   font-weight: 600;
   font-size: 3rem;
 }

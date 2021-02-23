@@ -119,7 +119,7 @@ class Contact extends React.Component {
                         <ul>
                           <li>
                             <a
-                              href=""
+                              href="https://docs.google.com/document/d/1GswRTPBYw88MgvoFc8Lc7LHQsvE613Y3FHMwl7qRPY4/edit?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -130,7 +130,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://github.com/Guled06"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -141,7 +141,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://www.linkedin.com/in/gahmed1/"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
