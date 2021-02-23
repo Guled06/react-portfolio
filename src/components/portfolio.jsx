@@ -57,7 +57,7 @@ class Portfolio extends React.Component {
                             </a>
                           </button>
                           <hr />
-                          <button type="button" class="btn btn-danger">
+                          <button type="button" class="btn btn-warning">
                             <a
                               href="https://github.com/Guled06/Weather-Dashboard"
                               target="_blank"
@@ -141,7 +141,7 @@ class Portfolio extends React.Component {
                             </a>
                           </button>
                           <hr />
-                          <button type="button" class="btn btn-danger">
+                          <button type="button" class="btn btn-warning">
                             <a
                               href="https://github.com/Guled06/the-brew-budz"
                               target="_blank"
@@ -225,7 +225,7 @@ class Portfolio extends React.Component {
                             </a>
                           </button>
                           <hr />
-                          <button type="button" class="btn btn-danger">
+                          <button type="button" class="btn btn-warning">
                             <a
                               href="https://github.com/Guled06/Workday-Scheduler"
                               target="_blank"
@@ -308,7 +308,7 @@ class Portfolio extends React.Component {
                             </a>
                           </button>
                           <hr />
-                          <button type="button" class="btn btn-danger">
+                          <button type="button" class="btn btn-warning">
                             <a
                               href="https://github.com/Guled06/note-taker"
                               target="_blank"
@@ -391,7 +391,7 @@ class Portfolio extends React.Component {
                             </a>
                           </button>
                           <hr />
-                          <button type="button" class="btn btn-danger">
+                          <button type="button" class="btn btn-warning">
                             <a
                               href="https://github.com/Guled06/budget-tracker"
                               target="_blank"
@@ -474,7 +474,7 @@ class Portfolio extends React.Component {
                             </a>
                           </button>
                           <hr />
-                          <button type="button" class="btn btn-danger">
+                          <button type="button" class="btn btn-warning">
                             <a
                               href="https://github.com/ElijahIG/Coded-19-app"
                               target="_blank"
