@@ -18,12 +18,7 @@ class Portfolio extends React.Component {
               <div className="title-box text-center">
                 <h3 className="title-a">Portfolio</h3>
                 <p className="subtitle-a">
-                  During the time I attended the University of California San
-                  Diego Coding Bootcamp, I had fun. I created a lot of projects.
-                  Some of the projects, I created alone. I contributed to three
-                  separate projects with three different groups consists of my
-                  fellow classmates at the bootcamp. Below, you can view the
-                  works I have completed.
+                  While I was attending the University of California San Diego Coding Bootcamp, I had fun. I created a lot of projects. Some of the projects, I created alone. I challenged myself to create a dynamically user friendly applications. I contributed to three separate projects, working three different groups. These groups consisted of my fellow classmates at the bootcamp. Below, you can view the works I and my fellow group members have completed.
                 </p>
                 <div className="line-mf"></div>
               </div>
@@ -42,7 +37,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Weather-Dashboard</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                          Weather-Dashboard lets users search any city's current weather information. When the user searches for the city, the search will also display the weather forecast for the next five days. This application displays the searched city's temperature, wind speed and humidity. I designed this application using HTML5, CSS3, Bootstrap and Javascript to built this application.
+                          Weather-Dashboard lets users search any city's current weather information. When the user searches for the city, the search will also display the weather forecast for the next five days. I designed this application using HTML5, CSS3, Bootstrap and Javascript to built this application.
                           </span>
                         </div>
                         <br />
@@ -124,10 +119,7 @@ class Portfolio extends React.Component {
                       <div className="col-sm-8">
                         <h2 className="w-title">The Brew Budz</h2>
                         <div className="w-more">
-                          <span className="w-ctegory">This App was created for the San Diegians and tourists alike. This app will offer brewery location information in San Diego. This application has added bonus of allowing the user to directly call breweries listed in the user's search directly from the application.
-                          <br/>
-                          <br/>
-                          The user can also click on the brewery's address and the user will be redirected to google maps to show where the brewery is located. We designed this application by using HTML5, CSS3, Bootstrap, Javascript, Node.js, JawsDB, Express.js, Sequelize and MySQL to built this application.
+                          <span className="w-ctegory">This App was created for the San Diegians and tourists alike. This user will be able to search for breweries in San Diego. We designed this application by using HTML5, CSS3, Bootstrap, Javascript, Node.js, JawsDB, Express.js, Sequelize and MySQL to built this application.
                           </span>{" "}
                         </div>
                         <br />
@@ -209,7 +201,7 @@ class Portfolio extends React.Component {
                       <div className="col-sm-8">
                         <h2 className="w-title">Workday Scheduler</h2>
                         <div className="w-more">
-                          <span className="w-ctegory">This application was designed to let users save events for each hour of their day from 9:00am to 5:00pm (their working day schedule). The user of this application can selected a specific hour, added a note for reminder and once the user no longer needs his/her note, the user then can delete that note. I designed this application using HTML5, CSS3, Bootstrap, Javascript and jQuery to build this application.
+                          <span className="w-ctegory">This application was designed to let users save events for each hour of their day from 9:00am to 5:00pm. The user can selected a specific hour and add a note for reminder. I designed this application using HTML5, CSS3, Bootstrap, Javascript and jQuery to build this application.
                           </span>
                           {/*} / <span className="w-date">18 Sep. 2018</span>*/}
                         </div>
@@ -292,10 +284,7 @@ class Portfolio extends React.Component {
                       <div className="col-sm-8">
                         <h2 className="w-title">Note Taker</h2>
                         <div className="w-more">
-                          <span className="w-ctegory">This application will allow the user to write notes and save the notes. When the user click the "GET STARTED" button, the app will redirect the user to a page where the user can input the title of the note the user will add. 
-                          <br/>
-                          <br/>
-                          Once the title of the note is written, the user can input the text of the note. After completing the text, the user will be given an option to save his/her note. The user's saved notes will be displayed on the left side of the page. This App was designed using HTML5, CSS3, Bootstrap, jQuery and Express.js.
+                          <span className="w-ctegory">This application will allow the user to write notes and save the notes. When the user click the "GET STARTED" button, the app will redirect the user to a page where the user can input a title and note. This App was designed using HTML5, CSS3, Bootstrap, jQuery and Express.js.
                           </span>
                         </div>
                         <br />
@@ -377,10 +366,7 @@ class Portfolio extends React.Component {
                       <div className="col-sm-8">
                         <h2 className="w-title">Budget Tracker</h2>
                         <div className="w-more">
-                          <span className="w-ctegory">This is a progressive web application that allows users to track their budgets by adding expenses and deposits to their budget through the "add and/or subtract funds" buttons. The users of this application will be able to add a transaction without an internet connection.
-                          <br/>
-                          <br/>
-                          When the users enter a transaction while offline, the transactions will be stored in their IndexedDB connection. Once the users' internet connection is restored, the transactions the users have added or subtracted will be transferred out of their IndexedDB and into their MongoDB connection. This application was designed using HTML5, CSS3, Javascript, Mongoose and Express.js.
+                          <span className="w-ctegory">This is a progressive web application that allows users to track their budgets by adding expenses and deposits to their budget through the "add and/or subtract funds" buttons. This application was designed using HTML5, CSS3, Javascript, Mongoose and Express.js.
                           </span>
                         </div>
                         <br />
@@ -460,9 +446,9 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Coded 19 (Covid-19 app)</h2>
+                        <h2 className="w-title">Coded 19 (Covid-19)</h2>
                         <div className="w-more">
-                          <span className="w-ctegory">This App is a COVID-19 Data application that allows the user to see real-time updates such as deaths and currently hospitalized from the Coronavirus (Covid-19) in his/her state. This application will also allow the user to search for New York Times articles pertaining to Covid-19. We used HTML5, CSS3, Materialize, Javascript, jQuery and AJAX to build this application.
+                          <span className="w-ctegory">This App allows the user to see deaths and currently hospitalized statistics from the Covid-19 virus in different US States. The user can search COvid-19 related articles in the New York Times. We used HTML5, CSS3, Materialize, jQuery and AJAX to build this application.
                           </span>
                         </div>
                         <br />

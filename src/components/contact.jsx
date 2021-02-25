@@ -119,12 +119,23 @@ class Contact extends React.Component {
                         <ul>
                           <li>
                             <a
-                              href="https://docs.google.com/document/d/1GswRTPBYw88MgvoFc8Lc7LHQsvE613Y3FHMwl7qRPY4/edit?usp=sharing"
+                              href="mailto:akindnesstoremember@gmail.com"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
-                                <i className="ion-social-codepen"></i>
+                                <i className="ion-social-codepen" class="fa fa-envelope" aria-hidden="true"></i>
+                              </span>
+                            </a>
+                          </li>
+                          <li>
+                            <a
+                              href="https://docs.google.com/document/d/116tPOaOj7PtOSHT8owYfb--wfKfowY0Xfha3ePOJpV8/edit?usp=sharing"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <span className="ico-circle">
+                                <i className="ion-social-codepen" class="fa fa-file" aria-hidden="true"></i>
                               </span>
                             </a>
                           </li>
@@ -163,8 +174,7 @@ class Contact extends React.Component {
           <div className="container">
             <div className="row">
               <div className="col-sm-12">
-                <div className="copyright-box">
-                </div>
+                <div className="copyright-box"></div>
               </div>
             </div>
           </div>

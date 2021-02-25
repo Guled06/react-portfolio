@@ -973,6 +973,10 @@ BUTTON
   .box-comments .list-comments .comment-author {
     font-size: 1.5rem;
   }
+
+  .ico-circle {
+    background-color: #ad3965;
+  }
 }
 
 @media (min-width: 992px) {
