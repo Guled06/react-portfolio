@@ -43,7 +43,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "My name is Guled Ahmed. I am a Full Stack Web Developer. I earned a certificate in Full Stack Web Development from the University of California San Diego Coding Bootcamp. I am n innovative problem-solver who is passionate about developing apps with a focus on mobile-first web designs and development. I have strengths in creativity, teamwork, and building projects from ideation to execution. Coding has become my new found passion. I am currently seeking software development in-person positions as well as remote positions. Wherever this journey takes me, I am know one thing for sure; failure is not an option, success is my goal!"
+            "My name is Guled Ahmed. I am a Full Stack Web Developer. I earned a certificate in Full Stack Web Development from the University of California San Diego Coding Bootcamp. I am an innovative problem-solver who is passionate about developing apps with a focus on mobile-first web designs and development. I have strengths is in creativity, teamwork, and building projects from ideation to execution. Coding has become my new found passion. Wherever this journey takes me, I am know one thing for sure; failure is not an option, success is my goal!"
         }
       ]
     };
