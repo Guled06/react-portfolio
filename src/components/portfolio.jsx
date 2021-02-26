@@ -18,7 +18,7 @@ class Portfolio extends React.Component {
               <div className="title-box text-center">
                 <h3 className="title-a">Portfolio</h3>
                 <p className="subtitle-a">
-                  While I was attending the University of California San Diego Coding Bootcamp, I had fun. I created a lot of projects. Some of the projects, I created alone. I challenged myself to create a dynamically user friendly applications. I contributed to three separate projects, working three different groups. These groups consisted of my fellow classmates at the bootcamp. Below, you can view the works I and my fellow group members have completed.
+                  While I was attending the University of California San Diego Coding program, I had fun. I created a lot of projects. Some of the projects, I created alone. I challenged myself to create a dynamically user friendly applications. We were tasked to work in groups and I contributed to three individual projects with three separate groups. These groups consisted of my fellow classmates at the coding program. Below, you can view the works I and my fellow group members have completed.
                 </p>
                 <div className="line-mf"></div>
               </div>
