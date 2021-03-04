@@ -910,6 +910,9 @@ BUTTON
   .counter-box {
     margin-bottom: 1.8rem;
   }
+  .ico-circle {
+    background-color: #ad3965;
+  }
 }
 
 @media (min-width: 767px) {
@@ -926,11 +929,15 @@ BUTTON
     margin-top: 3rem;
     padding-left: 0rem;
   }
+  .ico-circle {
+    background-color: #ad3965;
+  }
 }
 
 @media (min-width: 768px) {
   .box-shadow-full {
     padding: 3rem;
+    
   }
 
   .navbar-b.navbar-trans .nav-item,
@@ -983,11 +990,17 @@ BUTTON
   .testimonial-box .description {
     padding: 0 8rem;
   }
+  .ico-circle {
+    background-color: #ad3965;
+  }
 }
 
 @media (min-width: 1200px) {
   .testimonial-box .description {
     padding: 0 13rem;
+  }
+  .ico-circle {
+    background-color: #ad3965;
   }
 }
 
@@ -995,10 +1008,16 @@ BUTTON
   .bg-image {
     background-attachment: scroll;
   }
+  .ico-circle {
+    background-color: #ad3965;
+  }
 }
 
 @media (max-width: 768px) {
   .back-to-top {
     bottom: 15px;
+  }
+  .ico-circle {
+    background-color: #ad3965;
   }
 }
